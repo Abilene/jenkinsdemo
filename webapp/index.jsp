@@ -12,7 +12,7 @@
 		<title>Login Page</title>
 	</head>
     
-	<body bgcolor="#ffffff">
+	<body bgcolor="#ffff7f">
 		<div align="center">
 			<img src="img/Capture_old.PNG">
 		</div> 
